@@ -2,9 +2,7 @@
 
 Team Members:
 
-Larrisa Carvalho
-Rucha Kulkarni
-Siri Koduru
+Larrisa Carvalho, Rucha Kulkarni, Siri Koduru
 
 Project: Sentiment Analysis on Twitter Data
 
